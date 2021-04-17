@@ -1,0 +1,36 @@
+body
+{
+    background-color: darkgreen;
+}
+
+.headding
+{
+  font-size: 23px;
+  width: 100%;
+  margin:0px;
+  box-shadow:9px 9px 9px rgb(255, 48, 100);
+}
+
+.note
+{
+    font-size: 15px;
+    color:purple;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color: orangered;
+    background-color: rgb(4, 10, 61);
+    line-height:3;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
+
+canvas 
+{
+  border:5px solid violet;
+  border-radius: 20px;
+  box-shadow: 8px 8px 8px cyan;
+} 
